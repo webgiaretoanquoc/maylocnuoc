@@ -1,0 +1,844 @@
+Uri: https://cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\fontawesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\fontawesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\fontawesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\fontawesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\fontawesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\fontawesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\fontawesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmaylocnuoc.webtudong8giay.com%252Fga-hang-xom-tinh-nghich-da-co-tren-ios-va-android%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmaylocnuoc.webtudong8giay.com%252Fgalaxy-j7-2016-chuan-bi-len-doi-android-7-0-nougat%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmaylocnuoc.webtudong8giay.com%252Fmo-hop-samsung-gear-vr-2017-gia-25-trieu-voi-dieu-khien-cam-tay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmaylocnuoc.webtudong8giay.com%252Fnhung-ung-dung-khong-ngo-cua-man-hinh-vo-cuc%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/author/admin/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/author/admin/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/cua-hang/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\cua-hang\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/cua-hang/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\cua-hang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/danh-muc/binh-nong-lanh/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\danh-muc\binh-nong-lanh\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/danh-muc/binh-nong-lanh/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\danh-muc\binh-nong-lanh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/danh-muc/cac-san-pham-moi/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\danh-muc\cac-san-pham-moi\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/danh-muc/cac-san-pham-moi/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\danh-muc\cac-san-pham-moi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/danh-muc/cay-lau-nha-thong-minh/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\danh-muc\cay-lau-nha-thong-minh\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/danh-muc/cay-lau-nha-thong-minh/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\danh-muc\cay-lau-nha-thong-minh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/danh-muc/do-dien-gia-dung/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\danh-muc\do-dien-gia-dung\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/danh-muc/do-dien-gia-dung/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\danh-muc\do-dien-gia-dung\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/danh-muc/may-say-quan-ao/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\danh-muc\may-say-quan-ao\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/danh-muc/may-say-quan-ao/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\danh-muc\may-say-quan-ao\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/danh-muc/quat-phun-suong-quat-dien/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\danh-muc\quat-phun-suong-quat-dien\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/danh-muc/quat-phun-suong-quat-dien/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\danh-muc\quat-phun-suong-quat-dien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/danh-muc/thiet-bi-nha-bep/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\danh-muc\thiet-bi-nha-bep\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/danh-muc/thiet-bi-nha-bep/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\danh-muc\thiet-bi-nha-bep\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/danh-muc/tu-dong-tu-mat-khang-khuan/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\danh-muc\tu-dong-tu-mat-khang-khuan\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/danh-muc/tu-dong-tu-mat-khang-khuan/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\danh-muc\tu-dong-tu-mat-khang-khuan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/ga-hang-xom-tinh-nghich-da-co-tren-ios-va-android/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\ga-hang-xom-tinh-nghich-da-co-tren-ios-va-android\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/ga-hang-xom-tinh-nghich-da-co-tren-ios-va-android/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\ga-hang-xom-tinh-nghich-da-co-tren-ios-va-android\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/galaxy-j7-2016-chuan-bi-len-doi-android-7-0-nougat/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\galaxy-j7-2016-chuan-bi-len-doi-android-7-0-nougat\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/galaxy-j7-2016-chuan-bi-len-doi-android-7-0-nougat/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\galaxy-j7-2016-chuan-bi-len-doi-android-7-0-nougat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/gio-hang/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\gio-hang\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/mo-hop-samsung-gear-vr-2017-gia-25-trieu-voi-dieu-khien-cam-tay/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\mo-hop-samsung-gear-vr-2017-gia-25-trieu-voi-dieu-khien-cam-tay\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/mo-hop-samsung-gear-vr-2017-gia-25-trieu-voi-dieu-khien-cam-tay/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\mo-hop-samsung-gear-vr-2017-gia-25-trieu-voi-dieu-khien-cam-tay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/nhung-ung-dung-khong-ngo-cua-man-hinh-vo-cuc/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\nhung-ung-dung-khong-ngo-cua-man-hinh-vo-cuc\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/nhung-ung-dung-khong-ngo-cua-man-hinh-vo-cuc/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\nhung-ung-dung-khong-ngo-cua-man-hinh-vo-cuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/quy-dinh-su-dung/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\quy-dinh-su-dung\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/san-pham/cay-nuoc-nong-lanh-kangaroo-kg31h/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\san-pham\cay-nuoc-nong-lanh-kangaroo-kg31h\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/san-pham/cay-nuoc-nong-lanh-kangaroo-kg31h/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\san-pham\cay-nuoc-nong-lanh-kangaroo-kg31h\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/san-pham/cay-nuoc-nong-lanh-kangaroo-kg41w/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\san-pham\cay-nuoc-nong-lanh-kangaroo-kg41w\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/san-pham/cay-nuoc-nong-lanh-kangaroo-kg41w/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\san-pham\cay-nuoc-nong-lanh-kangaroo-kg41w\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/san-pham/may-lam-mat-khong-khi-kg50f22/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\san-pham\may-lam-mat-khong-khi-kg50f22\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/san-pham/may-lam-mat-khong-khi-kg50f22/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\san-pham\may-lam-mat-khong-khi-kg50f22\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/san-pham/may-lam-nong-lanh-nuoc-uong-kg40h/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\san-pham\may-lam-nong-lanh-nuoc-uong-kg40h\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/san-pham/may-lam-nong-lanh-nuoc-uong-kg40h/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\san-pham\may-lam-nong-lanh-nuoc-uong-kg40h\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/san-pham/may-loc-nuoc-9-loi-ro-kg109-vtu/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\san-pham\may-loc-nuoc-9-loi-ro-kg109-vtu\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/san-pham/may-loc-nuoc-9-loi-ro-kg109-vtu/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\san-pham\may-loc-nuoc-9-loi-ro-kg109-vtu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/san-pham/may-loc-nuoc-ro-kg107-vtu/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\san-pham\may-loc-nuoc-ro-kg107-vtu\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/san-pham/may-loc-nuoc-ro-kg107-vtu/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\san-pham\may-loc-nuoc-ro-kg107-vtu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/san-pham/may-loc-nuoc-ro-kg110-kv/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\san-pham\may-loc-nuoc-ro-kg110-kv\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/san-pham/may-loc-nuoc-ro-kg110-kv/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\san-pham\may-loc-nuoc-ro-kg110-kv\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/san-pham/may-loc-nuoc-ro-kg110-vtu/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\san-pham\may-loc-nuoc-ro-kg110-vtu\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/san-pham/may-loc-nuoc-ro-kg110-vtu/feed/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\san-pham\may-loc-nuoc-ro-kg110-vtu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.0.2
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-admin\js\password-strength-meter.min-1.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.1
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.1
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/css/style.css?ver=1.2.3
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\css\style.css
+Content Type: text/css
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/js/ot-vertical-menu.min.js?ver=1.2.3
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\js\ot-vertical-menu.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/vendor/superfish/hoverIntent.js?ver=1.2.3
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\vendor\superfish\hoverIntent.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/vendor/superfish/superfish.min.js?ver=1.2.3
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\vendor\superfish\superfish.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/css/extra.min.css?ver=0.12.2
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\css\extra.min.css
+Content Type: text/css
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=6.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/accounting/accounting.min.js?ver=0.4.2
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\accounting\accounting.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/price-slider.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\price-slider.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-ui-touch-punch/jquery-ui-touch-punch.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-ui-touch-punch\jquery-ui-touch-punch.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.6.7.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=7.8.3
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=7.8.3
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/06/farlin-logo.jpg
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\06\farlin-logo.jpg
+Content Type: image/jpeg
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/06/fatzbaby.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\06\fatzbaby.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/06/glico-logo-1.jpg
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\06\glico-logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/06/hipp.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\06\hipp.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/06/logo-aptamil-1.jpg
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\06\logo-aptamil-1.jpg
+Content Type: image/jpeg
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/06/logo-simba.jpg
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\06\logo-simba.jpg
+Content Type: image/jpeg
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/06/merries-1.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\06\merries-1.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/06/merries.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\06\merries.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/06/unimom.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\06\unimom.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/11/h1.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\11\h1.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/11/h2.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\11\h2.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/11/h3.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\11\h3.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/11/h4.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\11\h4.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/11/hinh.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\11\hinh.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/11/logo-2.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\11\logo-2.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/11/s10.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\11\s10.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/11/s2.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\11\s2.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/11/s4-247x296.jpg
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\11\s4-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/11/s4.jpg
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\11\s4.jpg
+Content Type: image/jpeg
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/11/s5.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\11\s5.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/11/s6.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\11\s6.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/11/s8.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\11\s8.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/11/s9.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\11\s9.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-content/uploads/2017/11/sp1-1.png
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-content\uploads\2017\11\sp1-1.png
+Content Type: image/png
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.0.2
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\css\dashicons.min-1.css
+Content Type: text/css
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\js\dist\hooks.min-1.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\js\dist\i18n.min-1.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\js\jquery\ui\mouse.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\js\jquery\ui\slider.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/js/underscore.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\js\underscore.min-1.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/js/wp-util.min.js?ver=6.0.2
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/js/wp-util.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\js\wp-util.min-1.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fga-hang-xom-tinh-nghich-da-co-tren-ios-va-android%2F
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fga-hang-xom-tinh-nghich-da-co-tren-ios-va-android%2F&format=xml
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fgalaxy-j7-2016-chuan-bi-len-doi-android-7-0-nougat%2F
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fgalaxy-j7-2016-chuan-bi-len-doi-android-7-0-nougat%2F&format=xml
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fgio-hang%2F
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fgio-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fmo-hop-samsung-gear-vr-2017-gia-25-trieu-voi-dieu-khien-cam-tay%2F
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fmo-hop-samsung-gear-vr-2017-gia-25-trieu-voi-dieu-khien-cam-tay%2F&format=xml
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fnhung-ung-dung-khong-ngo-cua-man-hinh-vo-cuc%2F
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fnhung-ung-dung-khong-ngo-cua-man-hinh-vo-cuc%2F&format=xml
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fquy-dinh-su-dung%2F
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fquy-dinh-su-dung%2F&format=xml
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fsan-pham%2Fcay-nuoc-nong-lanh-kangaroo-kg31h%2F
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fsan-pham%2Fcay-nuoc-nong-lanh-kangaroo-kg31h%2F&format=xml
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fsan-pham%2Fcay-nuoc-nong-lanh-kangaroo-kg41w%2F
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fsan-pham%2Fcay-nuoc-nong-lanh-kangaroo-kg41w%2F&format=xml
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fsan-pham%2Fmay-lam-mat-khong-khi-kg50f22%2F
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fsan-pham%2Fmay-lam-mat-khong-khi-kg50f22%2F&format=xml
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fsan-pham%2Fmay-lam-nong-lanh-nuoc-uong-kg40h%2F
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fsan-pham%2Fmay-lam-nong-lanh-nuoc-uong-kg40h%2F&format=xml
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fsan-pham%2Fmay-loc-nuoc-9-loi-ro-kg109-vtu%2F
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fsan-pham%2Fmay-loc-nuoc-9-loi-ro-kg109-vtu%2F&format=xml
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fsan-pham%2Fmay-loc-nuoc-ro-kg107-vtu%2F
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fsan-pham%2Fmay-loc-nuoc-ro-kg107-vtu%2F&format=xml
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fsan-pham%2Fmay-loc-nuoc-ro-kg110-kv%2F
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fsan-pham%2Fmay-loc-nuoc-ro-kg110-kv%2F&format=xml
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fsan-pham%2Fmay-loc-nuoc-ro-kg110-vtu%2F
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Fsan-pham%2Fmay-loc-nuoc-ro-kg110-vtu%2F&format=xml
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaylocnuoc.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/categories/17
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\categories\17
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/pages/11
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\pages\11
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/pages/13
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\pages\13
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/pages/551
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\pages\551
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/posts/651
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\posts\651
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/posts/654
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\posts\654
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/posts/658
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\posts\658
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/posts/663
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\posts\663
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/product/737
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\product\737
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/product/745
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\product\745
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/product/748
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\product\748
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/product/751
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\product\751
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/product/753
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\product\753
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/product/755
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\product\755
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/product/758
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\product\758
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/product/762
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\product\762
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/product_cat/60
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\product_cat\60
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/product_cat/62
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\product_cat\62
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/product_cat/63
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\product_cat\63
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/product_cat/66
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\product_cat\66
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/product_cat/70
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\product_cat\70
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/product_cat/81
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\product_cat\81
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/product_cat/82
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\product_cat\82
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/product_cat/83
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\product_cat\83
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://maylocnuoc.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\maylocnuoc.webtudong8giay.com\xmlrpc.php.html
+Content Type: text/html
+

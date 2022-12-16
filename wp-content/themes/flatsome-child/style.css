@@ -1,0 +1,1096 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+.yith_magnifier_mousetrap {
+	z-index: 5 !important;
+}
+.product-main .yith_magnifier_zoom_wrap{
+	border: solid 1px #e5e5e5;
+	margin: 0px 20px 0px 5px;
+	box-shadow: 1px 1px 2px #c0c0c0;
+}
+.product-main{
+	padding-bottom:0px ;
+}
+.product-section-title-related{
+	padding-left: 20px !important;
+}
+.single-product .large-9{
+	padding: 0px !important
+}
+.row-so-dien-thoai p{
+	margin-bottom: 0px !important
+}
+.div-tin-nho .box-image{
+	display: none
+}
+ul.header-bottom-nav  {
+	display: inline;
+}   
+
+ul.header-bottom-nav  li.header-search-form{
+	display: inline;
+	text-align: left;
+	float: left;
+	width: 50%;
+}
+ul.header-bottom-nav  li.header-block{
+	width: 48%;
+	float: right;
+	display: inline;
+}
+.div-ho-tro{
+	padding-bottom: 5px;
+}
+.div-ho-tro .col-inner{
+	background: #f0f0f0;
+	padding: 10px;
+}
+.div-ho-tro i{
+	font-size: 26px;
+}
+.div-ho-tro .ho-tro-line{
+	font-weight: bold;
+	font-size: 18px;
+}
+.single-product .product-images .badge-container{
+	display: none
+}
+.social-icons {
+	margin-top: 10px;
+}
+.row-so-dien-thoai a{
+	width: 100% !important;
+	max-width: 100% !important;
+	text-align: center;
+	display: block;
+}
+.div-dien-thoai, .div-facebook{
+	padding-bottom: 5px;
+}
+.div-dien-thoai a{
+	text-transform: uppercase;
+	font-weight: bold;
+	background: #228900;
+	color: white;
+	padding: 10px;
+	border-radius: 4px;
+}
+.div-facebook a{
+	text-transform: uppercase;
+	font-weight: bold;
+	background: #0089D8;
+	color: white;
+	padding: 10px;
+	border-radius: 4px;
+}
+.gia-hien-thi{
+	margin-top: 15px;
+}
+.gia-hien-thi p{
+	margin-bottom: 0px;
+}
+.gia-hien-thi .gia-goc{
+	text-decoration: line-through;
+}
+.gia-hien-thi .gia-giam{
+	font-weight: bold;
+	font-size: 19px;
+	color: #e80000;
+}
+.product-summary .price-wrapper{
+	display: none
+}
+.product-footer .woocommerce-tabs .product-tabs {
+	background-color: #f3f3f3;
+	border-bottom: 1px solid #5bc249;
+	border-left: 2px solid #5bc249;
+	border-right: 2px solid #5bc249;
+	font-size: 14px;
+	font-weight: 100;
+	text-align: left;
+	text-transform: uppercase;
+	height: 35px;
+}
+.product-footer .woocommerce-tabs .product-tabs li.active a{
+	padding: 6px;
+	background-color: #5bc249 !important;
+	color: white;
+}
+.product-footer .woocommerce-tabs ul li {
+	margin-bottom: 1px;
+}
+.product-footer .woocommerce-tabs ul li a{
+	text-transform: uppercase !important;
+	font-size: 14px;
+	font-weight: normal;
+	border: none !important;
+	background: transparent !important;
+}
+.product-footer .tab-panels{
+
+	border-bottom: none;
+	border-right: none;
+	border-left: none;
+	border-top:none;
+}
+.div-tinh-trang{
+	margin-bottom: 10px;
+	text-transform: uppercase
+}
+.div-tinh-trang .span-ma-san-pham,.div-tinh-trang .span-con{
+	color: #e95e0b;
+	font-weight: bold
+}
+.row-dang-ky .p-dau{
+	margin-bottom: 20px;
+}
+.div-san-pham{
+	padding-bottom: 0px;
+}
+.section-title  b{
+	display: none
+}
+.h-tieu-de {
+	background-color: #f3f3f3;
+	border-bottom: solid 2px #5bc249;
+	border-left: solid 2px #5bc249;
+	border-right: solid 2px #5bc249;
+	padding: 6px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: 100;
+	text-transform: uppercase;
+}
+
+.row-dang-ky .wpcf7-submit {
+	background: #FF9729!important;
+	float: right;
+}
+.footer-1 {
+	background-color: transparent;
+}
+.footer-2 {
+	padding-top: 10px;
+	text-align: center;
+	background-color: transparent;
+	border-top: 1px solid #73767a;
+}
+.absolute-footer{
+	display: none;
+}
+
+#footer {
+	font-size: 14px;    
+	background: url(images/footer-bg.jpg) repeat center top #31353b;
+	color: #ffffff;
+	padding: 20px 0px 0px;
+}
+#footer a{
+	color: white;
+}
+#footer ul li{
+
+	border-top: none !important;
+}
+#footer ul li::before {
+	font-family: FontAwesome;
+	content: "\f0da";
+	padding-right: 5px;
+	color: white;
+}
+.category .badge {
+	display: none;
+}
+.category .box-text{
+	vertical-align: top !important;
+	padding-top: 0px !important
+}
+.product-summary .product-title {
+	font-size: 20px
+}
+.product-short-description p{
+	margin-bottom: 5px;
+}
+.section-dia-diem a{
+	font-size: 12px;
+}
+
+.row-tuy-chon{
+	margin-top: 0px !important;
+	padding: 14px !important;
+}
+.row-tuy-chon .icon-box {
+
+	background: #E65E12 !important;
+	margin: 0px !important;
+	padding: 0px !important;
+}
+.row-tuy-chon .col{
+	padding: 5px !important
+}
+.row-tuy-chon .icon-box h3{
+	padding-top: 10px;
+	color: white;
+	font-size: 13px;
+
+	font-weight: normal
+}
+.row-tuy-chon .icon-box .icon-box-text{
+	padding-left: 0px;
+}
+.section-dia-diem{
+	padding: 0px;
+	background:#F5F5F5
+}
+.row-dia-diem{
+	padding-top: 40px;
+	background:#F5F5F5 !important
+}
+.row-dia-diem .col{
+	padding: 0px;
+} 
+#product-sidebar .icon-box ,.dia-chi-mobile .icon-box{
+	background: white;
+	margin: 0px 0px 10px 0px;
+	padding: 10px;
+}
+.single-product .content-row{
+	border: 3px solid white;
+}
+#product-sidebar .icon-box-text{font-size: 14px}
+#product-sidebar{
+	padding: 0px;
+}
+.row-divided>.col+.col:not(.large-12) {
+	border-left: none;
+}
+.page-title{
+	background: #F4F4F4;
+}
+.page-title-inner{
+	background: white;
+}
+.is-divider{
+	display: none;
+}
+.product-gallery-slider{
+	border: solid 1px #e5e5e5;
+	margin: 0px 20px 0px 5px;
+	box-shadow: 1px 1px 2px #c0c0c0;
+	border-radius: 4px;
+}
+.price-wrapper{
+	min-height: 38px
+}
+.product-title{
+	font-weight: bold;
+}
+.content-row,.category-page-row{
+	background: white
+}
+.saleoff {
+	background-color: #e80000;
+	color: #ffffff;
+	line-height: 18px;
+	padding: 15px 10px;
+	border-radius: 4px;
+}
+.saleoff .left {
+	float: left;
+	width: 15%;
+	text-align: center;
+}
+
+.saleoff .symbol {
+	display: inline-block;
+	width: 37px;
+	height: 37px;
+	background: url(images/icon.png) no-repeat -203px -114px transparent;
+}
+.saleoff .info {
+	font-size: 13px;
+	float: left;
+	width: 85%;
+}
+.saleoff .info p.khuyen-mai{
+	font-weight: bold;
+	margin-bottom: 4px !important;
+}
+.saleoff .info p{
+	margin-bottom: 0px ;
+}
+.product-short-description p{
+	font-size: 14px;
+}
+
+.nut-qua{
+	z-index: 10;
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	width: 34px;
+	height: 34px;
+	background: url(images/icon.png) no-repeat scroll -251px -117px transparent;
+	text-decoration: none;
+}
+.right-chuan{
+	right: 10px;
+}
+.bottom-chuan{
+	bottom: 10px;
+}
+.nut-on-sale .onsale{
+	color: white;
+	font-weight: bold;
+	line-height: 40px;
+	font-size: 13px;
+}
+.nut-on-sale{
+	float: right;
+	margin-top: 10px;
+	width: 41px;
+	height: 41px;
+	background: url(images/icon.png) no-repeat scroll -241px -45px transparent;
+	text-align: center;
+}
+.products .product-small .product-small,.home .product-small,.related .product-small .product-small{
+	border: solid 1px #e6e6e6;
+	padding:10px;
+	border-radius: 2px;
+}
+.products .product-small .product-small:hover,.home .product-small:hover{
+	border-radius: 2px;
+    box-shadow: 0px 0px 5px #aaa;
+}
+.price-wrapper{
+	text-align: left;
+}
+.price-wrapper .price{
+	font-size: 19px;
+}
+.price-wrapper del .woocommerce-Price-amount{
+	font-size: 17px;
+	color: gray !important
+}
+#mega_menu > li > a{
+	padding: 9px 15px;
+}
+
+.header-bottom  .flex-center{
+	width: 74%
+}
+.header-main .flex-right{
+	width: 76%
+}
+.full-width .ubermenu-nav, .container, .row {
+	max-width: 1200px;
+}
+.row.row-small {
+	margin: auto !important;
+	max-width: 1200px;
+
+}
+.row.row-large {
+	max-width: 1200px;
+}
+.section .row{
+	background: white
+}
+.row.row-small {
+	max-width: 1200px;
+}
+.div-header-top h3{
+	margin-bottom: 0px;
+	font-size: 14px;
+}
+.div-header-top .icon-box-text{
+	padding-top: 10px;
+	padding-left: 0px !important;
+}
+.div-header-top .col{
+	padding-right: 0px;
+	padding-bottom: 0px
+}
+.div-header-top p{
+	font-size: 11px
+}
+.copyright-footer{
+	display: none
+}
+.header-bottom-nav li{
+	padding: 0px 5px;
+}
+
+.flex-right ul li{
+	padding: 0px 10px !important;
+
+}
+.flex-right ul li a{
+	text-transform: initial !important;
+	font-size: 16px;
+}
+
+/*Màu sắc button*/
+.social-button, .social-icons .button.icon:not(.is-outline), .social-icons .button.icon:hover {
+	background-color: currentColor !important;
+	border-color: currentColor !important;
+}
+.button.facebook,.button.facebook:not(.is-outline), .button.facebook:hover {
+	color: #fff;
+	background-color: #446084;
+	border-color: #446084;
+}
+.button.twitter,.button.twitter:not(.is-outline), .button.twitter:hover {
+	color: white ;
+	background-color : #2478ba;
+	border-color: #2478ba ;
+}
+.button.email,.button.email:not(.is-outline), .button.email:hover {
+	color: #fff;
+	background-color: black ;
+	border-color: black ;
+}
+.button.pinterest,.button.pinterest:not(.is-outline), .button.pinterest:hover {
+	color: #fff !important;
+	background-color: #cb2320  ;
+	border-color: #cb2320  ;
+}
+
+.button.google-plus,.button.google-plus:not(.is-outline), .button.google-plus:hover {
+	color: #fff ;
+	background-color: #dd4e31 ;
+	border-color: #dd4e31 ;
+}
+.button.linkedin,.button.linkedin:not(.is-outline), .button.linkedin:hover {
+	color: #fff ;
+	background-color: #0072b7 ;
+	border-color: #0072b7   ;
+}
+
+.single-date{
+	border-bottom: 1px dashed #ededed;
+}
+h1.entry-title{
+	font-size: 24px ;
+}
+/*Kết thúc màu sắc*/
+
+
+
+footer.entry-meta {
+
+	border-top: none !important;
+	border-bottom: 1px dashed #ececec !important;
+
+}
+
+.entry-content img{
+	width: auto !important
+}
+.duong-line {
+	background: rgba(0,0,0,0) url(images/line.png) repeat scroll 0 0;
+	height: 12px;
+	margin-top: 5px;
+	overflow: hidden;
+}
+.related-post h7{
+	font-weight: bold;
+	font-size: 18px;
+	float: left;
+	margin: -8px 20px 0 0;
+}
+
+
+.price-wrapper span.amount{
+	color: red 
+}
+.box-text-products{
+	text-align: center;
+}
+.woocommerce-breadcrumb {
+	font-size: 13px;
+}
+.widget_shopping_cart ul li.mini_cart_item{
+	padding-right: 20px !important;
+	padding-left: 60px !important;
+}
+.widget_shopping_cart ul li.mini_cart_item a{
+	font-size: 12px !important
+}
+.price_slider_amount .price_label{
+	font-size: 12px
+}
+.grid-tools a{
+	background: #F36F36 !important
+}
+h1.product-title{
+	font-weight: 500 !important
+}
+
+
+.product_list_widget .woocommerce-Price-amount{
+	color: red;
+}
+.price_slider_amount .button{
+	background: #2C9310 !important
+}
+.san-pham-giua{
+	padding: 0px !important
+}
+.san-pham-giua .row{
+	margin:auto !important;
+}
+.row-sp-giua{
+	border-top: 5px solid #ffd200;
+	border-bottom: 5px solid #ffd200;
+}
+.san-pham-giua:before {
+	width: 21%;
+	height: 123px;
+	background: url(wp-content/uploads/2019/08/flower1.png) no-repeat scroll center top;
+	content: "";
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 1;
+}
+.san-pham-giua:after {
+	width: 21%;
+	height: 123px;
+	background: url(wp-content/uploads/2019/08/flower2.png) no-repeat scroll center top;
+	content: "";
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	z-index: 2;
+}
+#nz-div-2 h3.tde :after {
+	content: "";
+	width: 0;
+	height: 0;
+	border-top: 19px solid transparent;
+	border-left: 15px solid #EA3A3C;
+	border-bottom: 19px solid transparent;
+	border-right: 0 solid transparent;
+	position: absolute;
+	top: 0px;
+	right: -15px;
+}
+
+#nz-div-2 h3.tde span {
+	background: #EA3A3C;
+	padding: 10px 20px 8px 20px;
+	color: white;
+	position: relative;
+	display: inline-block;
+	margin: 0;
+}
+
+#nz-div-2 h3.tde {
+	margin: 15px 0;
+	font-size: 16px;
+	line-height: 20px;
+	text-transform: uppercase;
+}
+
+#nz-div-2 hr {
+	opacity: 1 !important;
+	margin: -34px 0px 54px 0px;
+	border: 1px solid red;
+}
+
+#mega_main_menu.direction-vertical > .menu_holder > .menu_inner > ul > li > .item_link:before, #mega_main_menu.direction-vertical > .menu_holder > .menu_inner > ul > li.nav_search_box:before{
+	background-image: none !important
+}
+
+.mmm #mega_main_menu.direction-vertical > .menu_holder > .menu_inner > ul > li > .item_link, .mmm #mega_main_menu.direction-vertical > .menu_holder > .menu_inner > ul > li > .item_link > .link_content, .mmm #mega_main_menu.direction-vertical > .menu_holder > .menu_inner > ul > li.nav_search_box, .mmm #mega_main_menu.direction-vertical.icons-top > .menu_holder > .menu_inner > ul > li > .item_link.disable_icon > .link_content, .mmm #mega_main_menu.direction-vertical > .menu_holder > .menu_inner > ul > li > .item_link > .link_content > .link_text, .mmm #mega_main_menu.direction-vertical.icons-top > .menu_holder > .menu_inner > ul > li > .item_link > .link_content, .mmm #mega_main_menu.direction-vertical.icons-top > .menu_holder > .menu_inner > ul > li > .item_link.with_icon > .link_content > .link_text, .mmm #mega_main_menu.direction-vertical > .menu_holder.sticky_container > .menu_inner > ul > li > .item_link, .mmm #mega_main_menu.direction-vertical > .menu_holder.sticky_container > .menu_inner > ul > li > .item_link > .link_content, .mmm #mega_main_menu.direction-vertical > .menu_holder.sticky_container > .menu_inner > ul > li.nav_search_box, .mmm #mega_main_menu.direction-vertical.icons-top > .menu_holder.sticky_container > .menu_inner > ul > li > .item_link.disable_icon > .link_content, .mmm #mega_main_menu.direction-vertical > .menu_holder.sticky_container > .menu_inner > ul > li > .item_link > .link_content > .link_text, .mmm #mega_main_menu.direction-vertical.icons-top > .menu_holder.sticky_container > .menu_inner > ul > li > .item_link > .link_content, .mmm #mega_main_menu.direction-vertical.icons-top > .menu_holder.sticky_container > .menu_inner > ul > li > .item_link.with_icon > .link_content > .link_text, .mmm #mega_main_menu.direction-vertical.primary_style-buttons > .menu_holder > .menu_inner > ul > li > .item_link, .mmm #mega_main_menu.direction-vertical.primary_style-buttons > .menu_holder > .menu_inner > ul > li > .item_link > .link_content, .mmm #mega_main_menu.direction-vertical.primary_style-buttons.icons-top > .menu_holder > .menu_inner > ul > li > .item_link.disable_icon > .link_content, .mmm #mega_main_menu.direction-vertical.primary_style-buttons.icons-top > .menu_holder > .menu_inner > ul > li > .item_link > .link_content, .mmm #mega_main_menu.direction-vertical.primary_style-buttons.icons-top > .menu_holder > .menu_inner > ul > li > .item_link.with_icon > .link_content > .link_text{
+	height: 36px !important
+}
+
+.san-pham-giua .product-title a{
+	color: white;
+}
+.san-pham-giua span.price .woocommerce-Price-amount{
+	color: #ffd200 !important;
+}
+.san-pham-giua span.lien-he-price{
+	font-weight: bold;
+	color: #ffd200 !important;
+}
+#mega_main_menu{
+	z-index: 1 !important;
+}
+
+
+.menu-sanpham {
+	font-size: 13px;
+	text-transform: uppercase;
+	position: relative;
+	margin: 0 0 30px;
+	font-weight: 700;
+}
+.menu-sanpham:before {
+	content: "";
+	position: absolute;
+	top: 18px;
+	right: 0;
+	width: 100%;
+	border-top: 1px solid #dddddd;
+}
+.menu-sanpham span {
+	background: #0c8fd9;
+	padding: 9px 9px 8px;
+	display: inline-block;
+	color: #fff;
+	position: relative;
+	font-weight: 700;
+	font-size: 14px;
+	border-radius: 4px 0px 0px 4px;
+}
+ul.tab-sanpham {
+	text-align: right;
+	float: right;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	text-transform: none;
+	background: #fff;
+	position: relative;
+	border: 0;
+}
+.tab-sanpham>li {
+	float: left;
+	margin-bottom: -1px;
+}
+.tab-sanpham > li a {
+	background: transparent;
+	text-transform: capitalize;
+	color: #666;
+	padding: 7px 10px 4px;
+	display: block;
+	border-right: 1px solid #ddd;
+	font-weight: 400;
+}
+.menu-sanpham span:after {
+	width: 0;
+	height: 0;
+	border-bottom: 19px solid transparent;
+	border-top: 19px solid transparent;
+	border-left: 15px solid #0c8fd9;
+	content: "";
+	position: absolute;
+	right: -15px;
+	top: 0;
+}
+
+#nz-div-4 h3.tde :after {
+	content: "";
+	width: 0;
+	height: 0;
+	border-top: 40px solid transparent;
+	border-left: 20px solid #0c8fd9;
+	border-bottom: 0px solid transparent;
+	border-right: 0 solid transparent;
+	position: absolute;
+	top: 0px;
+	right: -20px;
+}
+
+
+#nz-div-4 h3.tde :before {
+	content: "";
+	width: 0;
+	height: 0;
+	border-width: 40px 20px 0px 0px;
+	border-style: solid;
+	border-color: transparent;
+	border-right-color: #0c8fd9;
+	position: absolute;  
+	top: 0px;
+	left: -20px;
+}
+
+#nz-div-4 h3.tde span {
+	background: #0c8fd9;
+	padding: 10px 20px 8px 20px;
+	color: white;
+	position: relative;
+	display: inline-block;
+	margin: 0;
+
+}
+
+#nz-div-4 h3.tde {
+	text-align: center;
+
+	border-bottom: 2px solid #0c8fd9;
+	font-size: 16px;
+	line-height: 20px;
+	text-transform: uppercase;
+}
+.sanpham-duoi{
+	padding: 20px 20px;
+	margin: 20px 10px 10px 10px;
+	background: white;
+}
+
+.section-title-normal {
+	background-color: #f3f3f3;
+	border-bottom: solid 2px #5bc249;
+	border-left: solid 2px #5bc249;
+	border-right: solid 2px #5bc249;
+	padding: 6px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: 100;
+	text-transform: uppercase;
+
+}
+.section-title-center {
+	display: block;
+	background-color: #f3f3f3;
+	border-bottom: solid 2px #5bc249;
+	border-left: solid 2px #5bc249;
+	border-right: solid 2px #5bc249;
+	padding: 6px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: 100;
+	text-transform: uppercase;
+
+}
+.section-title-normal span {
+	margin-right: 15px;
+	padding-bottom: 7.5px;
+	border-bottom: none;
+	margin-bottom: -2px;
+	color: #0f91db;
+	text-transform:uppercase;
+	font-weight: bold;
+}
+.onsale-giam{
+	padding: 3px;
+	font-size: 12px;
+	font-weight: bold;
+}
+.onsale-div {
+	background: #e67e22;
+	padding: 0px 2px;
+	color: white;
+}
+p.buttons .wc-forward{
+	background: #0F90DB 
+}
+p.buttons a.checkout{
+	background: #e67e22 !important
+}
+.wc-proceed-to-checkout .checkout-button{
+	background: #e67e22 !important
+}
+.primary.is-underline, .primary.is-link, .primary.is-outline{
+	color: #2C9310
+}
+.is-outline:hover, .primary.is-outline:hover{
+	background: #0F90DB ;
+	border-color: #0F90DB ;
+}
+
+#b-c-facebook .chat-f-b label {
+	left: 30px !important;
+
+	color: white !important;
+}
+
+#top-bar ul li a{
+	font-size: 13px !important; 
+}
+#top-bar ul li{
+	padding: 0px !important
+}
+.cam-ket-div p{
+	margin-bottom: 0px;
+}
+.cam-ket-div .left-image{
+	float: left;
+	width: 20%;
+}
+.cam-ket-div .text-list-opt{
+	float: left;
+	width: 80%;
+}
+.text-list-opt p{
+	font-size: 12px;
+}
+.khung-cam-ket .col{
+	padding: 15px 10px;
+
+}
+.khung-cam-ket{
+	border:1px solid #EEE; 
+
+}
+
+.khung-cam-ket .opt-content{
+	border-left: 1px solid #EEE; 
+}
+.left-image i{
+	font-size: 39px;
+	color: #2C9310
+}
+.boxtitle {
+	width: 100%;
+	float: left;
+	background: #0090cf;
+	color: #fff;
+}
+.heading_title {
+	float: left;
+	background: #faec31;
+	color: #333;
+	text-transform: uppercase;
+	font-size: 14px;
+	font-weight: 700;
+	padding: 9px 10px 7px;
+}
+.bg_title {
+	background-image: url(images/icon_heading.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+	width: 43px;
+	height: 38px;
+	float: left;
+}
+.image-three .col{
+	padding-bottom: 5px !important;
+
+}
+.title-danh-muc{
+	padding: 0px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+.row-tin-tuc .post-item{
+	padding-bottom: 0px;
+	border-bottom: 1px solid #eee;
+}
+.section-title-container {
+	margin-bottom: 5px !important;
+}
+
+
+
+a.quick-view {
+	display: none !important;
+}
+.section-logo .box-text{
+	display: none
+}
+.section-logo .gallery-col{
+	padding-bottom: 0px !important
+}
+h2, .banner h1, .banner h2{
+	font-weight: 500 !important
+}
+
+.nav-uppercase>li>a{
+	text-transform: initial !important;
+}
+.ux-search-submit{
+	background: #E65E12 !important
+}
+.row-dien-thoai-menu .col{
+	padding-bottom: 0px;    
+}
+.row-dien-thoai-menu{
+	color: white;
+	font-size: 12px;
+}
+#mega-menu-wrap {
+	width: 100%;
+	background: #359131;
+	position: relative;
+}
+/*Thay đổi màu các nút*/
+/*đổi màu nút thêm vào giỏ*/
+.single_add_to_cart_button{
+	background: #2C9310 !important
+}
+
+/*Thay đổi màu nút đặt hàng*/
+#place_order{
+	background: #2C9310;
+}
+/*Thay đổi màu khung đặt hàng*/
+.has-border {
+	border: 2px solid  #2C9310;
+}
+.header-bottom .nav-dropdown-default{
+	padding: 5px !important;
+	background: #2C9310;
+	opacity: 0.9;
+}
+.header-bottom .nav-dropdown-default li a{
+	color: white;
+}
+.header-bottom .nav-dropdown{
+	border:none !important;
+	box-shadow: none !important
+}
+.header-bottom .container{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.nav-dropdown-has-arrow li.has-dropdown:after,.nav-dropdown-has-arrow li.has-dropdown:before{
+	border: none !important
+}
+/*Thay đổi màu nút quay lại*/
+a.wc-backward{
+	background: #0F90DB;
+}
+.product_list_widget li a{
+	font-size: 13px !important
+}
+.page-title-inner{
+	padding-top: 5px;
+	min-height: 40px;
+}
+#mega_main_menu_ul li i{
+	color: #2C9310 !important;
+}
+.footer-widgets ul#menu-menu-danhmuc li a{
+	font-size: 14px !important
+}
+.col-danh-muc p.title-danh-muc{
+	padding-top: 10px;
+	padding-left: 11px;
+	color: white;
+	margin-bottom: 0px;
+	background: #8BC157;
+	padding-bottom: 8px;
+	margin-top: -43px !important;
+
+}
+.col-danh-muc .col-inner{
+	z-index: 299 ;
+
+}
+.z-1 {
+	z-index: 1 !important;
+}
+.nav-outline>li.active>a{
+	color: #2C9310 !important
+}
+.top-sologan{
+	padding: 0px 14px;
+	font-size: 13px
+}
+.top-sologan i{
+	color: #faaf40;
+	font-size: 22px;
+}
+.hotline-top{
+	font-size: 14px;
+	font-weight: normal;
+}
+/*end*/
+
+@media only screen and (max-width: 48em) {
+	/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+	@media(max-width: 769px){
+		#mega_main_menu.direction-vertical > .menu_holder > .menu_inner > ul > li{
+			display: inline-block;
+		}
+	}
+	@media(min-width: 1025px){
+
+
+	}
+	@media(max-width: 668px){
+		.category-filtering {
+			display: none
+		}
+		.product-info{
+			padding-bottom: 0px;
+		}
+		.col-slide{
+			padding-bottom: 0px !important
+		}
+		.row-tuy-chon .icon-box-text{
+			padding-top: 15px
+		}
+		.row-dang-ky .wpcf7-email {
+			float: left;
+			width: 57% !important;
+		}
+
+	}
+	@media(max-width: 1025px){
+		.row-dang-ky .wpcf7-email {
+			float: left;
+			width: 68%;
+		}
+
+	}
+	@media(min-width: 1026px){
+		#wide-nav > .flex-row > .flex-left {
+			width: 25%;
+			min-width: 276px;
+			margin-right: 15px;
+		}
+
+
+
+		.gia-giam{
+			font-weight: bold;
+			color: red
+		}
+		.lien-he-price{
+			color: red
+		}
+		.row-dang-ky .wpcf7-email {
+			float: left;
+			width: 75%;
+		}
+
+	}
+
+
+
+	@media(min-width: 1023px){
+		.product-main{
+			padding: 40px 40px 0px 40px !important;
+		}
+		.row-dau .col-inner{
+			padding-top: 0px !important
+		}
+		.row-dau .col-danh-muc{
+		}
+		.row-dau .col-slide{
+			padding-bottom: 0px !important;
+			padding-left: 0px;
+		}
+		.col-slide .col{
+			padding-bottom: 0px !important;
+
+			padding-left: 0px !important
+		}
+		.col-slide .col-anh{
+			padding: 0px !important
+		}
+		.col-slide .col-anh .img{
+			margin-bottom: 0px !important
+		}
+
+	}
+
+}
